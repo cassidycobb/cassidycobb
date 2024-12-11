@@ -1,0 +1,64 @@
+---
+title: "Relevant Courses"
+image: Unknown.png
+about:
+  template: jolla
+  image-shape: rounded
+  image-width: 20em
+---
+
+During my first semester of my Masters program, which was Fall 2024, I have taken 3 courses that have strengthened my knowledge and technical abilities in the field of ecosystem science and sustainability.
+
+::: {style="display: flex; justify-content: space-around;"}
+<img src="pou.png" alt="pou" width="300"/>
+:::
+
+Land Use Hydrology (WR 416) has allowed me to develop a comprehensive understanding of hydrologic processes, including how water moves after precipitation and how human activities impact water pathways. This knowledge is applied to evaluate hydrologic responses across various land uses and climates, addressing challenges like flooding, droughts, and pollution. The focus is on supporting land management, ecosystem health, and designing sustainable infrastructure that minimizes environmental disruption.
+
+<div style="display: flex; justify-content: space-around;">
+
+<img src="Unknown.jpeg" alt="Unknown2" width="300">
+
+</div>
+
+In Introduction to Environmental Data Science (ESS 523A), I developed skills in file, code, and data management to analyze diverse datasets, applying techniques like linear regression and trend analysis to uncover patterns in environmental data. By determining the appropriate levels of analysis and code complexity, we could effectively address specific questions about the data. Using RStudio, we performed the data analysis and applied statistical techniques, while GitHub was utilized for version control, allowing us to manage code, files, and datasets efficiently and collaborate effectively, tracking changes and sharing work throughout the project.
+
+<div style="display: flex; justify-content: space-around;">
+
+<img src="images.jpeg" alt="images" width="300">
+
+</div>
+
+Integrated Ecosystem/Sustainability Analysis (ESS 500) started off by collecting soil samples at Seaworth Farms in Wellington, Colorado. The process involved extracting vertical soil columns at specified depths, labeling the samples, and storing them in airtight containers to assess the impact of land use on soil quality over time. The soil was then dried and ground using sieves and ovens to ensure consistency in the samples. In the laboratory, carbon content and soil organic matter were measured using combustion methods, providing insights into the soil's ability to store carbon and its role in climate change mitigation efforts.
+
+<div style="display: flex; justify-content: space-around;">
+
+<img src="BH.png" alt="BH" width="300">
+
+</div>
+
+In my undergraduate studies at Black Hills State University, I also completed multiple courses that are relevant to my career pursuit.
+
+<div style="display: flex; justify-content: space-around;">
+
+<img src="gis.jpeg" alt="gis" width="300">
+
+</div>
+
+In Global Positioning & Geographic Information Systems (SCI 388), I created interactive maps to spatially visualize data by adding and styling layers, while navigating the ArcGIS software interface to use essential tools for map creation and management. Additionally, I collected data in the field using GPS devices and mobile GIS applications.
+
+<div style="display: flex; justify-content: space-around;">
+
+<img src="chem.jpeg" alt="chem" width="300">
+
+</div>
+
+General Chemistry Lecture and Lab (CHEM 114, CHEM 114L) gave me a solid understanding of fundamental chemical principles through both theoretical and hands-on learning. In the lectures, I studied topics such as atomic structure, chemical bonding, thermodynamics, and reaction kinetics, which provided the foundation for the lab work. In the laboratory, I conducted experiments to apply these concepts, including performing titrations, measuring pH levels, synthesizing compounds, and analyzing reaction rates. Throughout the courses, I honed my skills in lab safety, accurate measurement, data analysis, and interpreting chemical phenomena, all while gaining a deeper appreciation for the role of chemistry in real-world applications.
+
+<div style="display: flex; justify-content: space-around;">
+
+<img src="hesapa.jpeg" alt="hesapa" width="300">
+
+</div>
+
+Ethnobotany of the Northern Plains (AIS 377) was focused on Native American uses of traditional plants in the Black Hills region. We took trips into the Hills, discussed medicinal and practical applications of over 30 plants, and memorized their genuses and species in Latin and the Lakota language. 

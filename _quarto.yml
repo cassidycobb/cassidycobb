@@ -2,16 +2,21 @@ project:
   type: website
   output-dir: docs
 website:
-  title: "cassidycobb"
+  title: "Cassidy Cobb"
   navbar:
     left:
       - href: index.qmd
         text: Home
-      - about.qmd
+      - href: about.qmd
+        text: Background
+      - href: courses.qmd
+        text: Relevant Courses
+      - href: contact.qmd
+        text: Contact
 
 format:
   html:
-    theme: cosmo
+    theme: lux
     css: styles.css
     toc: true
 

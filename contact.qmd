@@ -1,0 +1,14 @@
+---
+title: "Contact"
+image: bis.png
+about:
+  template: jolla
+  image-shape: rounded
+  image-width: 15em
+---
+
+Email: cassidy.cobb@colostate.edu
+
+Phone: (303) 875 - 8540
+
+LinkedIn: https://www.linkedin.com/in/cassidy-cobb127/

@@ -1,11 +1,19 @@
 ---
-title: "cassidycobb"
+title: ""
+image: hedshot.jpeg
+about:
+  template: jolla
+  image-shape: rounded
+  image-width: 20em
+  links: 
+    - text: LinkedIn
+      href: https://www.linkedin.com/in/cassidy-cobb127/
+    - text: GitHub
+      href: https://github.com/cassidycobb
 ---
 
-This is a Quarto website.
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
 
-```{r}
-1 + 1
-```
+Hello! My name is Cassidy Cobb and this is my Github website. I am currently a graduate student at Colorado State University! I am pursuing a Masters in Ecosystem Science and Sustainability. I graduated in 2020 with a Bachelors in Environmental Science and a Bachelors in Native American Studies. When I graduate with my Masters in 2025, I hope to have gained relevant experience to begin my career in environmental science.
+
+I have always been passionate about doing my part to counteract anthropogenic climate change. Knowing that agriculture contributes to 20-30% of greenhouse gas emissions, I strive to make agriculture more regenerative for generations to come. Specifically, I would like to be a project manager for an urban agriculture organization in Colorado. Water resource conservation is also extremely important to me, so I would like to implement innovative water use ideas into agricultural practices.

@@ -1,9 +1,38 @@
 ---
-title: "About"
+title: "Background"
+image: IMG_3808.png
+about:
+  template: jolla
+  image-shape: rounded
+  image-width: 20em
 ---
 
-About this site
+My passion for science as been present since I could read. Science classes were always my favorite, and I always loved going on field trips to the Denver Nature and Science Museum or the Denver Zoo. When I started my Bachelors degree at Black Hills State University in Spearfish, South Dakota, I declared my major to be Environmental Science and never changed it. I did end up pursuing a minor in Native American Studies, which quickly turned into a major and then became my second Bachelors degree. I have always been committed to preserving and contributing to the beautiful tribal cultures of North America. Black Hills State University offers an authentic opportunity to learn more about the history and culture of Native American tribes through their Bachelors in Native American Studies. I met some amazing people and gained more knowledge about traditional spiritual and environmental practices of the Lakota Nation. I also took a Lakota language class which is extremely necessary to maintain the language for generations to come. 
 
-```{r}
-1 + 1
-```
+<div style="display: flex; justify-content: space-around;">
+
+<img src="jace.png" alt="IMG 0769" width="300">
+
+</div>
+
+Above is a picture of me and one of my professors, Dr. Jace Decory. Dr. Decory was an extremely influential person in my life during my undergrad years. She was a member of the Cheyenne River Sioux Tribe and was a strong voice for the Lakota, Dakota and Nakota Nations, but also for all people. Throughout her career, she was involved in cultural curriculum development and Lakota language studies. One of my favorite classes I have ever taken was Ethnobotany of the Northern Plains, which Dr. Decory taught. We learned about plants of the Black Hills and their traditional uses. She was an instrumental figure in the community, and she will be missed dearly.
+
+<div style="display: flex; justify-content: space-around;">
+
+<img src="IMG_4110.jpeg" alt="IMG 4110" width="300">
+<img src="IMG_4139.jpg" alt="IMG 4139" width="300">
+<img src="IMG_4145.jpg" alt="IMG 4145" width="300">
+
+</div>
+
+Above are some pictures of me touring the Sanford Underground Research Laboratory in Lead, South Dakota in 2019. SURF is the deepest underground laboratory in the United States, and the second in the world. I descended in the Yates mineshaft to the lab level, which is 4,850 feet below the surface of the Earth. At SURF, they mainly focus on studying dark matter and neutrino physics. This was truly a once in a lifetime experience for me and further solidified my enthusiasm for science.
+
+<div style="display: flex; justify-content: space-around;">
+
+<img src="IMG_4105.png" alt="IMG 4105" width="300">
+
+</div>
+
+From September 2023 to July 2024, I held a position at Denver Zoo Conservation Alliance where I contributed to inspiring communities to save wildlife for future generations. It was genuinely an incredible experience. Not only did I learn about a myriad of different species and their traditional homelands, but I had the privilege of relaying that information to guests of all ages and backgrounds. In this picture, I am feeding BB the female giraffe, who is expecting a calf to be born in March 2025!
+
+
